@@ -7,3 +7,9 @@ git remote add <name> 'url of repositery'
 git push 
 git pull
 git clone
+
+-----------------
+git branch
+git checkout
+git merge
+
