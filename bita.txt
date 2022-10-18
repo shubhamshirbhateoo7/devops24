@@ -1,5 +1,0 @@
-linux is made by Linus T.
-AWS is Amazon Cloud
-nagpur
-orange city
-we are learning Linux, AWS Devops
