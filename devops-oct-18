@@ -1,0 +1,9 @@
+git config --global user.name "swapnil"
+git config --global user.email "swapnibrada@gmail.com"
+
+git revert <commit id>
+git log
+git remote add <name> 'url of repositery'
+git push 
+git pull
+git clone
