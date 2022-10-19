@@ -13,3 +13,10 @@ git branch
 git checkout
 git merge
 
+------------------------
+Branching
+
+git branch <name>
+git checkout <branch name>
+git checkout <commit id>
+git reset <filr_name>
